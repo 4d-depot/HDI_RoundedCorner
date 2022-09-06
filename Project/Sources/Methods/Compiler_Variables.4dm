@@ -1,0 +1,11 @@
+//%attributes = {"invisible":true}
+C_COLLECTION:C1488(Infos)
+C_LONGINT:C283(int1)
+C_LONGINT:C283(int2)
+C_LONGINT:C283(int3)
+C_COLLECTION:C1488(listFruits)
+C_OBJECT:C1216(objTabs)
+C_OBJECT:C1216(salad)
+C_TEXT:C284(text1)
+C_TEXT:C284(text2)
+C_TEXT:C284(text3)
