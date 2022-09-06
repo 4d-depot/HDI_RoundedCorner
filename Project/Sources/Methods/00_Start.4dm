@@ -28,12 +28,12 @@ Case of
 		
 		$options:=New object:C1471
 		
-		$options.title:="Use the Copy parameters command?"
+		$options.title:="Set rounded corner to static text and input control?"
 		
 		$options.blog:="blog.4d.com"
-		$options.info:="Language feature"  //ex : "4D View Pro feature"
+		$options.info:="UI feature"  //ex : "4D View Pro feature"
 		
-		$options.minimumVersion:="1950"  // 1660 means 16R6   1601 means 16.1 (do not use !)
+		$options.minimumVersion:="1970"  // 1660 means 16R6   1601 means 16.1 (do not use !)
 		
 		
 		DIALOG:C40("HDI"; $options)

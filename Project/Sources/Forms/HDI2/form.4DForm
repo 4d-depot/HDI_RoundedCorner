@@ -415,7 +415,21 @@
 					"textAlign": "center",
 					"borderRadius": 10
 				}
-			}
+			},
+			"entryOrder": [
+				"information1",
+				"BorderStyleDrop",
+				"Ruler",
+				"InputRzdius",
+				"Popup Dropdown List",
+				"Popup Dropdown List1",
+				"BorderStyleDrop1",
+				"Ruler1",
+				"Input1",
+				"Popup Dropdown List2",
+				"Popup Dropdown List3",
+				"Input"
+			]
 		}
 	],
 	"$4d": {
